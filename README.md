@@ -60,7 +60,7 @@ Here's a summary of the projects I’ve completed as part of the certification:
 | 20 | **🎮 Platformer Game**                                        | Develops a platformer game using object-oriented concepts and JavaScript classes.                                | ✅ Completed |
 | 21 | **🎲 Dice Game**                                              | A browser-based dice game that reviews algorithmic concepts learned so far.                                      | ✅ Completed  |
 | 22 | **💵 Cash Register**                                          | Implements a cash register system that calculates and returns the correct change.                                | 🏆 Certification Project - Completed |
-| 23 | **👨‍💻 fCC Authors Page**                                     | Uses fetch and promises to dynamically load author data from an API.                                             | 🚧 Not started  |
+| 23 | **👨‍💻 fCC Authors Page**                                     | Uses fetch and promises to dynamically load author data from an API.                                             | ✅ Completed  |
 | 24 | **🏆 fCC Forum Leaderboard**                                   | Creates a leaderboard for the FreeCodeCamp forum using asynchronous programming techniques.                      | 🚧 Not started  |
 | 25 | **🔍 Pokémon Search App**                                      | Fetches Pokémon data from an external API and displays it in a user-friendly manner.                             | 🏆 Certification Project - Not started |
 
